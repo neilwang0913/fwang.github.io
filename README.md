@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Academic Degree | University
 ------------ | -------------
-Doctor of Philosophy| University of Edinburgh
-Master of Science | University of Southampton
-Bachelor of Engineering | Birmingham City University
+Doctor of Philosophy| **University of Edinburgh**
+Master of Science | **University of Southampton**
+Bachelor of Engineering | **Birmingham City University**
