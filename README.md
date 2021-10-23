@@ -25,23 +25,23 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neilwang0913/fwang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Interesting and Habits
 
 
-### Working Experiences
-
+### Professional Experiences
 
 
 ### Education Experiences
+
+I have published some papers to make contribution on the wearable electric design for healthcare applications. I wonder to make contribution to save the life and make life better. 
 
 _Academic Degree_ | _University_
 ------------ | -------------
 Doctor of Philosophy| **University of Edinburgh**
 Master of Science | **University of Southampton**
 Bachelor of Engineering | **Birmingham City University**
+
+Support or Contact
+
+I am young professional and STEM ambassador in Ediburgh who helps to promote the engineer development in the communicty
