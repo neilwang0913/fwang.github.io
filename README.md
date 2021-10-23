@@ -44,4 +44,4 @@ Bachelor of Engineering | **Birmingham City University**
 
 Support or Contact
 
-I am young professional and STEM ambassador in Edinburgh who helps to promote the engineer development in the community.
+I am a young professional and STEM ambassador in Edinburgh who helps to promote the engineer development in the community.
