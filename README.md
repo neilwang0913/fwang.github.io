@@ -1,7 +1,6 @@
 # Hello World ! Welcome to My Page ^^
 
-I'm passinate about universtanding the relationship between art and STEM. By expoling and creating the different objectives I hope to understand the world and myself better. 
-
+I'm passionate about understanding the relationship between art and STEM. By exploring and creating the different objectives I hope to understand the world and myself better.
 
 I have worked on from component to system level design including simulation and fabrciation for
 
