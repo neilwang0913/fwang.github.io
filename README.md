@@ -39,10 +39,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ### Education Experiences
-```markdown
+
 _Academic Degree_ | _University_
 ------------ | -------------
 Doctor of Philosophy| **University of Edinburgh**
 Master of Science | **University of Southampton**
 Bachelor of Engineering | **Birmingham City University**
-```
