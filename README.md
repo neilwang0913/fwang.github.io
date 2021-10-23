@@ -25,7 +25,7 @@ High-performance Computing using ARCHER Supercomputer
 Artificial Interestlligence using Google Cloud
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
 
 
 ## Interesting and Habits
