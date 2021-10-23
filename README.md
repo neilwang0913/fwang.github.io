@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Education Experiences
 
-I have published some papers to make contribution on the wearable electric design for healthcare applications. I wonder to make contribution to save the life and make life better. 
+I have published some papers to make a contribution to wearable electric design for healthcare applications. I wonder to make a contribution to save the life and make life better.
 
 _Academic Degree_ | _University_
 ------------ | -------------
