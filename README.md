@@ -34,11 +34,11 @@ Support or Contact
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-Working Experiences
+### Working Experiences
 
 
 
-Education Experiences
+### Education Experiences
 _Academic Degree_ | _University_
 ------------ | -------------
 Doctor of Philosophy| **University of Edinburgh**
