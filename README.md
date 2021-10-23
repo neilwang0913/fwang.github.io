@@ -36,7 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Hyberlink | Second Header
+Academic Degree | University
 ------------ | -------------
-Linkedin| Content from cell 2
-Gmail | Content in the second column
+Doctor of Philosophy| University of Edinburgh
+Master of Science | University of Southampton
+Bachelor of Engineering | Birmingham City University
