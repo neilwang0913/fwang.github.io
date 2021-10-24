@@ -41,7 +41,7 @@ Music
 
 I have published some papers to make a contribution to wearable electric design for healthcare applications. I wonder to make a contribution to save the life and make life better.
 
-_Academic Degree_ | _University_
+Academic Degree | University
 ------------ | -------------
 Doctor of Philosophy| **University of Edinburgh**
 Master of Science | **University of Southampton**
