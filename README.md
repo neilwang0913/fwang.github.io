@@ -11,7 +11,8 @@ Localization using Ultrasound Unit
 Energy Harvesting using e-peas 
 
 Image Processing using Matlab and Python
-Hardware Accelerator using Xilinx
+Hardware Accelerator using Xilinx FPGA
+OpenRSIC and RSIC-V using Intel FPGA
 
 Low power FPGA using Hspice
 
