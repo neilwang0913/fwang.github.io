@@ -30,6 +30,8 @@ For more details see [Google Scholar](https://scholar.google.com/citations?user=
 
 ## Interesting and Habits
 Football
+[Drawing and Photoing](https://www.behance.net/fzwang)
+Music
 
 ## Professional Experiences
 [Google Programming](https://sites.google.com/view/2021pix6/home)
