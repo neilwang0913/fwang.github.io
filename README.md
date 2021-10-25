@@ -28,6 +28,20 @@ Artificial Interestlligence using Google Cloud
 
 For more details see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
 
+## Technical Skills
+I support both commerical and open-source tools and use different tools for different purpose. I wonder to build my own lanugage and tools to build better communciation between human to machince and understand the world better.
+
+Purpose | Tools
+------------ | -------------
+Other Tools| Salesforce
+Cloud service | AWS Google Cloud; ARCHER HPC 
+OS | Windows; Mac OS; Android; ROS 
+EDA|  Microwave Studio, Cadence, Hspice/Ltspice/Pspice 
+Media | Adobe
+Documents | Latex; Office; EndNote; GraphPad
+FPGA | Altera; Xilinx
+uC | PIC; Arduino
+Coding| Python; C; Verilog; Spice
 
 ## Interesting and Habits
 Football
