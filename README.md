@@ -33,7 +33,7 @@ I support both commerical and open-source tools and use different tools for diff
 
 Purpose | Tools
 ------------ | -------------
-Other Tools| Salesforce
+Other Tools| Salesforce; Lucidchart; Notion
 Cloud service | AWS Google Cloud; ARCHER HPC 
 OS | Windows; Mac OS; Android; ROS 
 EDA|  Microwave Studio, Cadence, Hspice/Ltspice/Pspice 
