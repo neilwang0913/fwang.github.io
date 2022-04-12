@@ -1,29 +1,35 @@
 # Hello World ! Welcome to My Page ^^
 
-I'm passionate about understanding the relationship between art and STEM. By exploring and creating the different objectives I hope to understand the world and myself better.
+I'm passionate about understanding the relationship between Art and STEM. By exploring and creating the different objectives, I hope to understand the world and myself better.
 
-I have worked on from component to system level design including simulation and fabrciation for
+I have worked on from component to system level design including simulation and fabrciation for different applications:
 
 ```markdown
-Environment Sensing 
-Localization using Ultrasound Unit
+- Environment Sensing 
 
-Energy Harvesting using e-peas 
+- Localization using Ultrasound Unit
 
-Image Processing using Matlab and Python
-Hardware Accelerator using Xilinx FPGA
-OpenRSIC and RSIC-V using Intel FPGA
+- Energy Harvesting using e-peas 
 
-Low power FPGA using Hspice
+- Image Processing using Matlab and Python
 
-Robotic System Development using ROS
-Robotic Control using National Instrument RIO boards 
+- Hardware Accelerator using Xilinx FPGA
 
-Data Centralization using AWS Lambda
-Data Acquisition using LoRA and satellite Network
-High-performance Computing using ARCHER Supercomputer
+- OpenRSIC and RSIC-V using Intel FPGA
 
-Artificial Interestlligence using Google Cloud
+- Low power FPGA using Hspice
+
+- Robotic System Development using ROS
+- Robotic Control using National Instrument RIO boards 
+
+- Data Centralization using cloud service(AWS, Azure, Google, Oracle)
+
+- Data Acquisition using wireless node(Wifi, LoRA and satellite Network)
+
+- High-performance Computing using ARCHER Supercomputer
+
+- Artificial Interestlligence using TPU
+
 ```
 
 For more details see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
@@ -35,7 +41,7 @@ Purpose | Tools
 ------------ | -------------
 Other Tools| Salesforce; Lucidchart; Notion
 Cloud service | AWS Google Cloud; ARCHER HPC 
-OS | Windows; Mac OS; Android; ROS 
+OS | Windows; MacOS; Linux; Android; ROS 
 EDA|  Microwave Studio, Cadence, Hspice/Ltspice/Pspice 
 Media | Adobe
 Documents | Latex; Office; EndNote; GraphPad
