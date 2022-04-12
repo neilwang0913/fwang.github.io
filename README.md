@@ -20,6 +20,7 @@ I have worked on from component to system level design including simulation and 
 - Low power FPGA using Hspice
 
 - Robotic System Development using ROS
+
 - Robotic Control using National Instrument RIO boards 
 
 - Data Centralization using cloud service(AWS, Azure, Google, Oracle)
