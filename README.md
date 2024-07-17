@@ -4,12 +4,14 @@ I'm passionate about understanding the relationship between Art and STEM. By exp
 
 I have worked on from component to system level design including simulation and fabrciation for different applications:
 
+## (PHD project + Industry1[crover] + Industry2[i4pd] + Industry3[huawei] + insustry4[renesas])
 ```markdown
-- Environment Sensing 
 
-- Localization using Ultrasound Unit
+- Environment Sensing: +  
 
-- Energy Harvesting using e-peas 
+- Localization using Ultrasound Unit: ++
+
+- Energy Harvesting using e-peas: + 
 
 - Image Processing using Matlab and Python
 
