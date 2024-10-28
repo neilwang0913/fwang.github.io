@@ -1,8 +1,8 @@
-# Hello World ! Welcome to My Page ^^
+# Hello World! Welcome to My Page ^^
 
-I'm passionate about understanding the relationship between Art and STEM. By exploring and creating the different objectives, I hope to understand the world and myself better.
+I'm passionate about understanding the relationship between Art and STEM. By exploring and creating different objectives, I hope to understand the world and myself better.
 
-I have worked on from component to system level design including simulation and fabrciation for different applications:
+This project showcases my work from component to system-level design, including simulation and fabrication for various applications.
 
 ## (PHD project + Industry1[crover] + Industry2[i4pd] + Industry3[huawei] + insustry4[renesas])
 ```markdown
@@ -38,41 +38,41 @@ I have worked on from component to system level design including simulation and 
 For more details see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
 
 ## Technical Skills
-I support both commerical and open-source tools and use different tools for different purpose. I wonder to build my own lanugage and tools to build better communciation between human to machince and understand the world better.
+I support both commercial and open-source tools and use different tools for different purposes. I aim to build my own language and tools to improve communication between humans and machines.
 
-Purpose | Tools
------------- | -------------
-Other Tools| Salesforce; Lucidchart; Notion
-Cloud service | AWS Google Cloud; ARCHER HPC 
-OS | Windows; MacOS; Linux; Android; ROS 
-EDA|  Microwave Studio, Cadence, Hspice/Ltspice/Pspice 
-Media | Adobe
-Documents | Latex; Office; EndNote; GraphPad
-FPGA | Altera; Xilinx
-uC | PIC; Arduino
-Coding| Python; C; Verilog; Spice
+| Purpose            | Tools                                                         |
+|--------------------|---------------------------------------------------------------|
+| Other Tools        | Salesforce, Lucidchart, Notion                                |
+| Cloud Service      | AWS, Google Cloud, ARCHER HPC                                 |
+| Operating Systems  | Windows, macOS, Linux, Android, ROS                           |
+| EDA                | Microwave Studio, Cadence, Hspice/Ltspice/Pspice              |
+| Media              | Adobe                                                         |
+| Documentation      | LaTeX, Office, EndNote, GraphPad                              |
+| FPGA               | Altera, Xilinx                                                |
+| Microcontrollers   | PIC, Arduino                                                  |
+| Programming        | Python, C, Verilog, Spice                                     |
 
-## Interesting and Habits
-Football
-[Drawing and Photoing](https://www.behance.net/fzwang)
-Music
+## Interests and Hobbies
+- Football
+- [Drawing and Photography](https://www.behance.net/fzwang)
+- Music: Play the French horn at 9-class level as a solo and joined the university symphony orchestra as Principal French Horn 
 
 ## Professional Experiences
 [Google Programming](https://sites.google.com/view/2021pix6/home)
 
-## Education Experiences
+## Education
+I have published papers on wearable electric design for healthcare applications and aim to contribute to saving lives and improving quality of life.
 
-I have published some papers to make a contribution to wearable electric design for healthcare applications. I wonder to make a contribution to save the life and make life better.
+| Academic Degree       | University                      |
+|-----------------------|---------------------------------|
+| Doctor of Philosophy  | University of Edinburgh         |
+| Master of Science     | University of Southampton       |
+| Bachelor of Engineering | Birmingham City University    |
 
-Academic Degree | University
------------- | -------------
-Doctor of Philosophy| **University of Edinburgh**
-Master of Science | **University of Southampton**
-Bachelor of Engineering | **Birmingham City University**
+## Contact
+I am an IET/IEEE young professional and STEM ambassador in Edinburgh, helping promote community engineering development.
 
-Support or Contact
+For support or contact, see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
 
-I am a IET/IEEE young professional and STEM ambassador in Edinburgh who helps to promote the engineer development in the community.
-
-# Medical Reference
+## Medical Reference
 - [Change in the air with student challenges](https://ddi.ac.uk/change-in-the-air-with-student-challenges/)
