@@ -80,3 +80,5 @@ For support or contact, see [Google Scholar](https://scholar.google.com/citation
 - [Microwave Radar Systems for Medical Imaging and Sensing Applications](https://www.ewireless.eng.ed.ac.uk/microwave-radar-systems-medical-imaging-and-sensing-applications)
 - [Student Employee of the Year at The University of Edinburgh](https://twitter.com/Crover_Tech/status/1134139975245729793)
 - [X/extwitter channel](https://twitter.com/neilwang2015)
+- [dblp computer science bibliography](https://dblp.org/pid/163/8650.html)
+- [google scholar](https://scholar.google.co.uk/citations?user=N9f0ieAAAAAJ&hl=en)
