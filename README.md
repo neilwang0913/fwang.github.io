@@ -74,5 +74,5 @@ I am an IET/IEEE young professional and STEM ambassador in Edinburgh, helping pr
 
 For support or contact, see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
 
-## Meida Reference
+## Media 
 - [Change in the air with student challenges](https://ddi.ac.uk/change-in-the-air-with-student-challenges/)
