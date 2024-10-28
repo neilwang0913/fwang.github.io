@@ -82,3 +82,6 @@ For support or contact, see [Google Scholar](https://scholar.google.com/citation
 - [X/extwitter channel](https://twitter.com/neilwang2015)
 - [dblp computer science bibliography](https://dblp.org/pid/163/8650.html)
 - [google scholar](https://scholar.google.co.uk/citations?user=N9f0ieAAAAAJ&hl=en)
+
+## Certification 
+- [SC102: Source Control Management with Git](https://www.credly.com/badges/dc3ec129-fc52-472b-8819-729a31c62983/public_url)
