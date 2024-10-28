@@ -73,3 +73,6 @@ Bachelor of Engineering | **Birmingham City University**
 Support or Contact
 
 I am a IET/IEEE young professional and STEM ambassador in Edinburgh who helps to promote the engineer development in the community.
+
+Medical Reference
+[Change in the air with student challenges](https://ddi.ac.uk/change-in-the-air-with-student-challenges/)
