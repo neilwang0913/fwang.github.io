@@ -72,7 +72,7 @@ I have published papers on wearable electric design for healthcare applications 
 ## Contact
 I am an IET/IEEE young professional and STEM ambassador in Edinburgh, helping promote community engineering development.
 
-For support or contact, see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en).
+For support or contact, see [Google Scholar](https://scholar.google.com/citations?user=N9f0ieAAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0001-5714-8725)
 
 ## Media 
 - [Change in the air with student challenges](https://ddi.ac.uk/change-in-the-air-with-student-challenges/)
