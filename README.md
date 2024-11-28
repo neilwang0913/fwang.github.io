@@ -84,6 +84,7 @@ For support or contact, see [Google Scholar](https://scholar.google.com/citation
 - [google scholar](https://scholar.google.co.uk/citations?user=N9f0ieAAAAAJ&hl=en)
 - [rocket research](https://rocketreach.co/wang-fengzhou-email_116336518)
 - [climablelauchpad](https://climatelaunchpad.org/finalists/crover/)
+- [University of Edinburgh: Microwave Radar Systems for Medical Imaging and Sensing Applications](https://www.ewireless.eng.ed.ac.uk/microwave-radar-systems-medical-imaging-and-sensing-applications)
 
 ## Certification 
 - [SC102: Source Control Management with Git](https://www.credly.com/badges/dc3ec129-fc52-472b-8819-729a31c62983/public_url)
